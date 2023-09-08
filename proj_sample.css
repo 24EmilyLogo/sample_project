@@ -1,1 +1,11 @@
-@import "https://fonts.fontstorage.com/import/playfairdisplay.css";
+body{
+    background-color:cornsilk;
+}
+table{
+    border:1px solid black;
+    border-collapse:collapse;
+}
+td, th{
+    border:1px solid black;
+    padding:5px;
+}
